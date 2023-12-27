@@ -15,3 +15,4 @@
 %           2. MTKSVCRScrCD_Finally
 
 %% Refer to each .m file to get more specific comments, please. 
+%% The code of the safe acceleration rule for parameter \rho is similar which is omitted here.
